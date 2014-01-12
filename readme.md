@@ -1,6 +1,6 @@
 # Kosong -_____-"
 
-1. Download dari [zip] atau [tarball]
+1. Download dari [zip], [tarball] atau `git clone https://github.com/mul14/demo-laravel-session.git`
 
 2. Jalankan `composer install`
 
